@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Johnathan</h1>
 <h3 align="center">An aspiring fullstack developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, React / Redux, Express, HTML5, CSS3**
+- 🌱 I'm a software engineer who's able to learn and develop new skills quickly, proven through my work experience both as a team member and as an individual. I've built applications with **Javascript, Python, React, Redux, Node.js, Express, Flask, SQLAlchemy, Sequelize, and PostgreSQL**.
+
+I'm seeking a great, enthusiastic engineering team to work for that will provide me with challenging, interesting work to both learn from and contribute to.
 
 - 📫 How to reach me **johnathanyih@gmail.com**
 
