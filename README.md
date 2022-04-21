@@ -29,3 +29,4 @@ I'm seeking an enthusiastic engineering team to work for that will provide me wi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyih&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyih&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyih&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
