@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring fullstack developer</h3>
 -->
 
-<h1 align="center">Hi 👋, I'm Jojo</h1>
+<h1 align="center">Hi, I'm Jojo!</h1>
 
 I'm a developer who's able to learn and develop new skills quickly, proven through my work experience both as a team member and as an individual. I've built applications with **Javascript, Python, React, Redux, Node.js, Express, Flask, SQLAlchemy, Sequelize, and PostgreSQL**.
 
